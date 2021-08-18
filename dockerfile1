@@ -1,0 +1,4 @@
+FROM centos
+MAINTAINER sai
+CMD echo "Hello world"
+EXPOSE 8084
